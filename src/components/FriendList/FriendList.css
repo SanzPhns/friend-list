@@ -1,0 +1,26 @@
+.home-nav {
+  display: flex;
+  font-size: 25px;
+  margin-bottom: 2rem;
+  justify-content: space-between;
+  background-color: #00000096;
+}
+.home-nav-links {
+  display: flex;
+  justify-content: space-between;
+}
+.home-nav a {
+  padding: 15px;
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
+.home-nav a:hover {
+  background-color: rgb(0, 0, 0);
+}
+.home-nav-logo {
+  background-color: #3a3939;
+  display: flex;
+  font-size: 30px;
+  align-items: center;
+  justify-content: center;
+}

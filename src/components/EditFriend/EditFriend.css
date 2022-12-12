@@ -1,0 +1,13 @@
+.edit-friend-main {
+  display: flex;
+  flex-direction: column;
+  padding: 15px;
+  align-items: center;
+  width: 65%;
+  box-shadow: rgb(0 0 0 / 35%) 0px 5px 15px;
+  margin: 4rem auto;
+  border-radius: 14px;
+}
+.edit-friend-main-text {
+  font-size: 35px;
+}

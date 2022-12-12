@@ -1,0 +1,10 @@
+body {
+  font-family: monospace;
+}
+.home-text {
+  display: flex;
+  min-height: 50vh;
+  align-items: center;
+  font-size: 4rem;
+  justify-content: center;
+}

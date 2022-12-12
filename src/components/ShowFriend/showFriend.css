@@ -1,0 +1,65 @@
+.show-friend-important {
+  background-color: #ccff92;
+}
+.show-friend {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 2fr 1fr 1fr 0.5fr 0.5fr;
+  border: 1px solid #00000075;
+  margin-bottom: 5px;
+}
+.box {
+  padding: 10px;
+  font-size: 17px;
+  text-align: center;
+}
+.checkBox {
+  padding: 10px;
+  text-align: center;
+}
+input.checkBox-input {
+  transform: scale(2);
+}
+.show-friend-header {
+  font-weight: bold;
+  background-color: #00000096;
+  color: white;
+}
+.show-friend-main {
+  margin-top: 10px;
+}
+.show-friend button {
+  background-color: none;
+}
+.show-friend button {
+  width: 90%;
+  border: 0px;
+  border: 1px solid grey;
+  font-size: 17px;
+  height: 90%;
+  border-radius: none;
+}
+.editButton {
+  background-color: #ffff00a3;
+  margin-right: 2px;
+}
+.deleteButton {
+  background-color: #ff0000ab;
+}
+.editDeletButtons {
+  margin-top: 3px;
+}
+.editButton:hover {
+  background-color: #ffff00;
+  font-weight: bold;
+  cursor: pointer;
+}
+.deleteButton:hover {
+  background-color: #ff0000;
+  font-weight: bold;
+  cursor: pointer;
+}
+.show-friend-empty p {
+  text-align: center;
+  font-size: 3rem;
+  margin-top: 10rem;
+}

@@ -1,0 +1,44 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "abc",
+      "phoneNumber": "1234567899",
+      "email": "abc@abc.com",
+      "work": "dev",
+      "city": "SMG"
+    },
+    {
+      "id": 2,
+      "name": "efg",
+      "phoneNumber": "2222222222",
+      "email": "efg@efg.com",
+      "work": "dfdf",
+      "city": "qqqq"
+    },
+    {
+      "id": 3,
+      "name": "hij",
+      "phoneNumber": "3233333333",
+      "email": "hij@hij.com",
+      "work": "efg",
+      "city": "SMaaaG"
+    },
+    {
+      "id": 4,
+      "name": "klm",
+      "phoneNumber": "8888888888",
+      "email": "klm@klm.com",
+      "work": "ggg",
+      "city": "ppp"
+    },
+    {
+      "id": 5,
+      "name": "nop",
+      "phoneNumber": "5555555555",
+      "email": "nop@nop.com",
+      "work": "jjj",
+      "city": "ddd"
+    }
+  ]
+}
